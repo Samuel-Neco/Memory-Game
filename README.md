@@ -1,4 +1,4 @@
-# Memory-Game
+# Memory-Game 🎮
 ## Jogo de memória estilo Genius
 
 Nesse projeto, criei um jogo Gênesis utilizando apenas HTML, CSS e Javascript,
